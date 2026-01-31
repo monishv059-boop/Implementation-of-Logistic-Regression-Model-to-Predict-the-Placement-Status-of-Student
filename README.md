@@ -8,10 +8,21 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Logistic Regression
+Used for binary classification (Placed / Not Placed).
+
+2.Decision Tree Algorithm
+Predicts placement using tree-based decision rules.
+
+3.Random Forest Algorithm
+Ensemble method using multiple decision trees for better accuracy.
+
+4.Support Vector Machine (SVM)
+Classifies students by finding the optimal separating hyperplane.
+
+5.Naive Bayes Algorithm
+Probabilistic classifier based on Bayes’ theorem.
+
 
 ## Program:
 <img width="1382" height="746" alt="ml ex5(1)" src="https://github.com/user-attachments/assets/267d8c99-948d-4e59-ab4a-828df9176274" />
